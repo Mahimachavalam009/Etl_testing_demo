@@ -1,0 +1,11 @@
+#this is a csv file
+#to contain the raw data here
+
+emp_name, emp_id, dept_no, salary, commision
+isabella, 1111, 10, 40000, 9000
+ruby, 1112, 10, 70000, 0
+isaac, 1211, 9, 50000, 10000
+joe, 1312, 8, 60000, 10000
+mary, 1313, 8, 700000, 10000
+sam, 1121, 10, 70000, 1300
+
