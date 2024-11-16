@@ -1,8 +1,10 @@
 # Etl_testing_demo
 ETL testing 
 
-#this is a demo project for live ETL testing
-Use-Case Scenario : A companies HR wants to get a few details of the current employees as a report, the job of the tester to get the report done within the deadline and to meet the HR requirements
+This is a demo project for live ETL testing
+
+
+#Use-Case Scenario : A companies HR wants to get a few details of the current employees as a report, the job of the tester to get the report done within the deadline and to meet the HR requirements
 
 
 ```bash
