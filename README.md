@@ -14,13 +14,13 @@ This is a demo project for live ETL testing
 ```                
 
   ```              
- 2)  the HR wants the dataset in a few requirements as follows :              A. extract the data from employee_csv
-                                                                              B. now select the dept_no = 10 and get the data of only those employees that belong to 
+ 2)  the HR wants the dataset in a few requirements as follows :  A. extract the data from employee_csv
+                                                                  B. now select the dept_no = 10 and get the data of only those employees that belong to 
                                                                                  the particular dept.
-                                                                              C. change the emp_names of the details to uppercase
-                                                                              D. now create a new column which says "tot_salary"
+                                                                  C. change the emp_names of the details to uppercase
+                                                                  D. now create a new column which says "tot_salary"
                                                                                  where tot_salary = salary + commission
-                                                                              E. now load the new data into a new file
+                                                                  E. now load the new data into a new file
                                                                               name it as target_csv
                                                                             
                                                                               
